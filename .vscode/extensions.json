@@ -1,9 +1,25 @@
 {
   "recommendations": [
+    // -- Rust --
+    "rust-lang.rust-analyzer",
+    // -- Go --
+    "golang.Go",
+    // -- Vue --
+    "vue.volar",
+    // -- Python --
+    "ms-python.python",
+    "ms-python.vscode-python-envs",
+    "KevinRose.vsc-python-indent",
+    "charliermarsh.ruff",
+    // -- electro-mechanics --
+    "Wokwi.wokwi-vscode",
+    "probe-rs.probe-rs-debugger",
+    // -- base --
     "fill-labs.dependi",
+    "vadimcn.vscode-lldb",
     "usernamehw.errorlens",
     "esbenp.prettier-vscode",
-    "rust-lang.rust-analyzer",
+    "njpwerner.autodocstring",
     "tamasfe.even-better-toml",
     "ms-vscode.makefile-tools",
     "yzhang.markdown-all-in-one"
