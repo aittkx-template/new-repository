@@ -1,11 +1,9 @@
 [
-  // Windows系统关闭标签快捷键: Alt+W
   {
     "key": "ctrl+w",
     "command": "workbench.action.closeActiveEditor",
     "when": "isWindows"
   },
-  // Mac系统关闭标签快捷键: Cmd+W
   {
     "key": "cmd+w",
     "command": "workbench.action.closeActiveEditor",
