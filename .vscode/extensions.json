@@ -6,6 +6,7 @@
     "golang.Go",
     // -- Vue --
     "vue.volar",
+    "bradlc.vscode-tailwindcss",
     // -- Python --
     "ms-python.python",
     "ms-python.vscode-python-envs",
